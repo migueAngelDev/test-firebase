@@ -1,0 +1,1 @@
+/* Crea un formulario con tres campos (nombre, apellido y telefóno), obten esos valores y crea una promesa en el que después de 2.5 segundos se envíe un mensaje de éxito o de error */

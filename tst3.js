@@ -1,0 +1,1 @@
+/* sube a Firestore datos como (nombre, apellido y correo) simulando a 3 usuarios, creando una colección llamada "users", e imprime en consola esos datos */
